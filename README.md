@@ -19,7 +19,10 @@
 
 ## Excerpt
 
-> [Clean lyric will be pushed here]
+> يا نور عيني في ليالي الغرام
+> شوقي يداعب في صمتك كلام
+> نار الهوى تحرق كل السكون
+> نبض القلوب يعزف أحلى اللحون
 > ...
 
 [View Full Lyrics ->](./lyrics.txt)
