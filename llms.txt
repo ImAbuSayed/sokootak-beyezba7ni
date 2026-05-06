@@ -13,7 +13,7 @@
 | Lyric Writing Date | May 02, 2026 |
 | Song Page | [Open Song Page](https://imabusayed.github.io/sokootak-beyezba7ni/) |
 | License | [View License](./LICENSE.md) |
-| Get License | [Music Rights & Licensing for Sokootak Beyezba7ni](https://music.abusayed.com.bd/Licensing/) |
+| Get License | [Commercial Licensing for Sokootak Beyezba7ni](https://music.abusayed.com.bd/Licensing/) |
 | Artist | Abu Sayed |
 
 ---
