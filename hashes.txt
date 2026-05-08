@@ -1,0 +1,10 @@
+# Cryptographic Proof of Authorship Log - Sokootak Beyezba7ni
+
+This log tracks the cryptographic history and versioning for the song **Sokootak Beyezba7ni** (sokootak-beyezba7ni).
+
+| Timestamp | Version | Clean SHA-256 Hash | Raw SHA-256 Hash | Backup File |
+|:----------|:--------|:-------------------|:-----------------|:------------|
+| 2026-05-08T22:13:55.822020 | `v1` | `bfeacafbcb3ac46a1238ef0133a97d8bf9cfd3f619919d1e27bd228cd81baffd` | `3fa52cd296187cf163aa0978149df53ff2c1ce67178c67e5818c4c309eed95fb` | `2026-05-08_sokootak-beyezba7ni-v1.txt` |
+
+---
+*Written and Curated by Abu Sayed*
